@@ -1,0 +1,23 @@
+.product {
+    width: 200px;
+    height: 200px;
+    margin: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    background-color: #dadada;
+    color: rgb(21, 21, 21);
+    border-radius: 1rem;
+}
+
+.btn {
+    padding: 0.3rem 1rem;
+    background: #9e9e9e9e;
+    border: none;
+    border-radius: 0.3rem;
+    font-size: 0.9rem;
+    font-family: inherit;
+    color: #212121;
+}
