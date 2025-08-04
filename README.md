@@ -17,7 +17,7 @@
 - ⚛️ React
 - 📦 json-server بک اند فیک
 - 💡 JSX + CSS
-- 🗃️ useState, props
+- 🗃️ useState, props , useEffect
 - 🎯 Functional Components
 
 ---
